@@ -1,0 +1,20 @@
+{
+  "name": "renanpallin",
+  "version": "1.0.0",
+  "description": "My own package",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo 'comming sooon =)'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renanpallin/renanpallin.git"
+  },
+  "keywords": [],
+  "author": "Renan Pallin <renanpallin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renanpallin/renanpallin/issues"
+  },
+  "homepage": "https://github.com/renanpallin/renanpallin#readme"
+}
